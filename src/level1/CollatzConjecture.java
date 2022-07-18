@@ -1,5 +1,6 @@
 package level1;
-
+//콜라츠 추측
+// url : https://school.programmers.co.kr/learn/courses/30/lessons/12943
 public class CollatzConjecture {
     public static void main(String[] args) {
         System.out.println(solution(626331));

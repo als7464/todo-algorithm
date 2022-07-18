@@ -1,5 +1,6 @@
 package level1;
-
+// 두 정수 사이의 합
+// url : https://school.programmers.co.kr/learn/courses/30/lessons/12912
 public class BetweenSum {
     public static void main(String[] args) {
         System.out.println(solution(3,5));
